@@ -46,6 +46,7 @@ export default function Sidebar({ page, setPage, etudiants, matieres, notes }) {
       <div className="sidebar-footer">
         <div className="footer-tag">Master GI / MIAGE</div>
         <p>Dr KANGA KOFFI · 2025–2026</p>
+        <div className="footer-signature">Bikpo Boya David</div>
       </div>
     </aside>
   )
